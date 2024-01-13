@@ -1,0 +1,151 @@
+body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+ div p{
+   padding: 10px 0px 0px 10px;
+}
+
+a{
+    text-decoration: none;
+}   
+.nav-menu-ul{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: row;
+    gap:30px;
+}
+.hole img{
+    width: 50px;
+    height: 50px;
+}
+
+.hole {
+    background-image: url(/images/hero-banner.jpg);
+    width: 1500px;
+    height: 350px;
+}
+
+.content{
+    margin-left: 90px;
+    padding: 30px 0px 0px 30px;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 200px;
+}
+.hole p{
+    margin-left: 90px;
+    padding: 20px 0px 0px 20px;
+    color:white;
+    font-size: 16px;
+    font-weight: 100px;
+}
+.heading{
+    top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tech-type-ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding:0px 40px 40px 0px; 
+}
+.icon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.tech-type-ul-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 0px 40px 40px 0px;
+}
+.note{
+    font-family: 'PT Sans';
+    font-size: 14px;
+}
+
+.photo img{
+     height: 500px;
+}
+.photo p{
+    position: relative;
+    bottom: 50%;
+    left: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub{
+    display: flex;
+    flex-wrap: wrap;
+}
+.side-heading{
+    font-family: 'Roboto', sans-serif;
+    color:  #4E4E4E;
+    font-size: 20px;
+}
+.class{
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+.lie img{
+    width: 500px;
+    height: 250px;
+    margin-top: -190px;
+    float: right;
+}
+.port{
+    font-family:'Roboto', sans-serif;
+    font-size: larger;
+    font-weight: 400%;
+}
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.case{
+    font-family: 'Roboto', sans-serif;
+    font: size 13%;
+    font-weight: 700; 
+}
+.title{
+    font-family: 'Roboto', sans-serif;
+    font: size 13%;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table tr td th{
+    border: 1px solid black;
+    overflow-x: auto;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    height: auto;
+}
+th{
+    height: 70px;
+}
+
+
+
+
+
+
+
+
+    
+
+
+    
